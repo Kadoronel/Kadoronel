@@ -15,7 +15,7 @@ I am pursuing a professional Master's degree in Computer Engineering, specializi
 - Security Operations: SOC, SIEM, threat detection and vulnerability management.
 - DevSecOps: GitLab CI/CD, SAST, DAST, Docker and OWASP security testing.
 - Identity & Access Security: IAM, MFA, PAM and Microsoft Entra ID.
-- Security Engineering:** Security architecture reviews, cloud and network security.
+- Security Engineering: Security architecture reviews, cloud and network security.
 
 ### Portfolio
 
