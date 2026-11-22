@@ -1,16 +1,26 @@
-## Hi there 👋
+# Darius Ronel Dossou
 
-<!--
-**Kadoronel/Kadoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Professional | GRC • DFIR • DevSecOps • Security Engineering
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a cybersecurity professional with experience in security governance, risk management, regulatory compliance, security operations, digital forensics and incident response.
+
+I am pursuing a professional Master's degree in Computer Engineering, specializing in Cybersecurity, at Polytechnique Montréal.
+
+### Areas of Expertise
+
+- GRC: ISO 27001, NIST CSF, NERC CIP, security audits and risk assessments.
+- DFIR: Digital forensics, incident investigation, evidence preservation and incident response.
+- Security Operations: SOC, SIEM, threat detection and vulnerability management.
+- DevSecOps: GitLab CI/CD, SAST, DAST, Docker and OWASP security testing.
+- Identity & Access Security: IAM, MFA, PAM and Microsoft Entra ID.
+- Security Engineering:** Security architecture reviews, cloud and network security.
+
+### Portfolio
+
+Selected cybersecurity projects and technical demonstrations will be published here progressively, subject to confidentiality and intellectual property requirements.
+
+### Professional Interests
+
+Cybersecurity governance | Digital forensics | Secure software development | Cloud security | Security architecture
